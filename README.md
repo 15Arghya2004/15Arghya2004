@@ -2,8 +2,8 @@
 - 👀 I’m interested in ... Cyber security 
 - 🌱 I’m currently learning ...B tech
 - 💞️ I’m looking to collaborate on ... learning
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ... 15arghya.mahajan@gmail.com
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
 
 <!---
