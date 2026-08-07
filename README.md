@@ -1,3 +1,5 @@
+![Arghya Mahajan — Cybersecurity, SOC and Threat Detection, DevSecOps](banner.png)
+
 ## Arghya Mahajan
 
 B.Tech Cybersecurity @ SRMIST, Chennai. I spend more time building security systems than reading about them — SOC platforms, threat detection pipelines, network tooling, and the automation around them.
